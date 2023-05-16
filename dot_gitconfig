@@ -5,3 +5,5 @@
 	name = Chris Hua
 [core]
 	editor = vim
+[push]
+	autoSetupRemote = true
