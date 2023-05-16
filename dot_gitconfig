@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = hua.christopher@gmail.com
+	name = Chris Hua
+[core]
+	editor = vim
